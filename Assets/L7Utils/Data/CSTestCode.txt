@@ -1,0 +1,14 @@
+using System; 
+using UnityEngine; 
+using Test;
+
+namespace L7  
+{  
+    class TestCSCode  
+    {  
+        public static void TestCSharpCode()
+        {
+			// GameObject.Find("Quad (1)").AddComponent<UnityScript2>();
+        }  
+    }  
+}  
