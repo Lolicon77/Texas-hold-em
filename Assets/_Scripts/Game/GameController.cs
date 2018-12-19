@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using L7;
+using Model;
 using UnityEngine;
 
 namespace Game {
@@ -16,8 +17,6 @@ namespace Game {
 			}
 		}
 
-		//		public bool Compare(List<Poker> a, List<Poker> b) {
-		//		}
 
 	}
 }

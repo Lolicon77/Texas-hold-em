@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game {
+namespace Model
+{
 	public class Player : MonoBehaviour {
 
 		public List<Poker> handPokers;
 		public int money;
-
-
 
 	}
 }
